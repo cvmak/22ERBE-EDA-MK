@@ -1,4 +1,5 @@
-*.csv
+REFIT_TIME_SERIES_VALUES/*.csv
+Table2/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
